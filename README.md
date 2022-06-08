@@ -1,4 +1,3 @@
-<hr>
 <div align="center">
 
 <h1 align="center">Hi 🖐🏻 , I'm Kasra - aka [ Hamishegi ]</h1>
@@ -24,7 +23,7 @@
 
 <br>
 
-[![Spotify](https://spotify-readme-ten-olive.vercel.app/api/spotify)](https://open.spotify.com/user/q77u5oo7ronbw16r2ykq0vukx)
+<!-- [![Spotify](https://spotify-readme-ten-olive.vercel.app/api/spotify)](https://open.spotify.com/user/q77u5oo7ronbw16r2ykq0vukx) -->
  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
