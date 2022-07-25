@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">Hi 🖐🏻 , I'm Kasra - aka [ Hamishegi ]</h1>
-<img align="center" alt="GIF" height="240px" src="https://share.creavite.co/qkj6WK0vF0nUVhpS.gif" />
+<img align="center" alt="GIF" height="240px" src="https://www.uplooder.net/img/image/78/cde288d331a2551e0a3a5ea9712455e0/standard.gif" />
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 <br>
